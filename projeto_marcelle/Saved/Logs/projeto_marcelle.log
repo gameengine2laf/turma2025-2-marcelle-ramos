@@ -3143,3 +3143,143 @@ Sampler Limit: 32
 [2025.12.01-14.25.03:941][ 37]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2858.723633
 [2025.12.01-14.25.04:941][ 40]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.01-14.25.04:941][ 40]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2859.390869, Update Interval: 332.071899
+[2025.12.01-14.31.20:643][167]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3235.435303
+[2025.12.01-14.31.21:642][170]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.01-14.31.21:642][170]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3236.101318, Update Interval: 352.461304
+[2025.12.01-14.38.06:705][385]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3641.510010
+[2025.12.01-14.38.08:034][390]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.01-14.38.08:034][390]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3642.509033, Update Interval: 311.142303
+[2025.12.01-14.39.22:118][612]LogDerivedDataCache: C:/Users/Aluno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.01-14.43.53:081][424]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3987.892578
+[2025.12.01-14.43.54:080][427]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.01-14.43.54:080][427]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3988.562744, Update Interval: 348.916290
+[2025.12.01-14.50.16:473][574]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4371.288574
+[2025.12.01-14.50.17:472][577]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.01-14.50.17:472][577]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4371.954590, Update Interval: 352.952057
+[2025.12.01-14.53.34:020][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.12.01-14.53.35:882][472]LogSlate: Window 'Salvar conteúdo' being destroyed
+[2025.12.01-14.53.35:893][472]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.01-14.53.35:947][472]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Textures/blocos-brancos-textura-da-parede] ([1] browsable assets)...
+[2025.12.01-14.53.35:947][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Textures/blocos-brancos-textura-da-parede]
+[2025.12.01-14.53.35:957][472]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/blocos-brancos-textura-da-parede
+[2025.12.01-14.53.35:957][472]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/GitHub/turma2025-2-marcelle-ramos/projeto_marcelle/Saved/blocos-brancos-textura-da-parede574892C04D392A3869EE6EB6A9229E34.tmp' to '../../../../../../Users/Aluno/Documents/GitHub/turma2025-2-marcelle-ramos/projeto_marcelle/Content/LevelPrototyping/Textures/blocos-brancos-textura-da-parede.uasset'
+[2025.12.01-14.53.35:958][472]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Textures/blocos-brancos-textura-da-parede_Mat] ([1] browsable assets)...
+[2025.12.01-14.53.35:958][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Textures/blocos-brancos-textura-da-parede_Mat]
+[2025.12.01-14.53.35:958][472]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/blocos-brancos-textura-da-parede_Mat
+[2025.12.01-14.53.35:958][472]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/GitHub/turma2025-2-marcelle-ramos/projeto_marcelle/Saved/blocos-brancos-textura-da-parede16A8D24D46A3EADBABC645B15364569A.tmp' to '../../../../../../Users/Aluno/Documents/GitHub/turma2025-2-marcelle-ramos/projeto_marcelle/Content/LevelPrototyping/Textures/blocos-brancos-textura-da-parede_Mat.uasset'
+[2025.12.01-14.53.35:961][472]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YL/AMWFTVO5FDYQM2U1VNKQ8K
+[2025.12.01-14.53.35:962][472]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/GitHub/turma2025-2-marcelle-ramos/projeto_marcelle/Saved/AMWFTVO5FDYQM2U1VNKQ8K4FDCF7B54593C0C21E98928DFC53035B.tmp' to '../../../../../../Users/Aluno/Documents/GitHub/turma2025-2-marcelle-ramos/projeto_marcelle/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YL/AMWFTVO5FDYQM2U1VNKQ8K.uasset'
+[2025.12.01-14.53.35:962][472]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/neve] ([1] browsable assets)...
+[2025.12.01-14.53.35:962][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/neve]
+[2025.12.01-14.53.35:963][472]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/neve
+[2025.12.01-14.53.35:963][472]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/GitHub/turma2025-2-marcelle-ramos/projeto_marcelle/Saved/neve7BA0C25C415E5ACD9B37FCB0CC8BD24E.tmp' to '../../../../../../Users/Aluno/Documents/GitHub/turma2025-2-marcelle-ramos/projeto_marcelle/Content/LevelPrototyping/Materials/neve.uasset'
+[2025.12.01-14.53.35:965][472]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3
+[2025.12.01-14.53.35:965][472]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/GitHub/turma2025-2-marcelle-ramos/projeto_marcelle/Saved/SWSI13675DVYIZ0N4NF7Y3681A287F4CF38E1CE4DFE49F10268B9C.tmp' to '../../../../../../Users/Aluno/Documents/GitHub/turma2025-2-marcelle-ramos/projeto_marcelle/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset'
+[2025.12.01-14.53.35:967][472]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/1R/6V8SW3MRD60W21OFT5336R
+[2025.12.01-14.53.35:967][472]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/GitHub/turma2025-2-marcelle-ramos/projeto_marcelle/Saved/6V8SW3MRD60W21OFT5336RD685A75B42067DFE8DF1698EA22EAD2E.tmp' to '../../../../../../Users/Aluno/Documents/GitHub/turma2025-2-marcelle-ramos/projeto_marcelle/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/1R/6V8SW3MRD60W21OFT5336R.uasset'
+[2025.12.01-14.53.35:969][472]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/7X/WWNGLOEGC2Z7HU3XOX48P1
+[2025.12.01-14.53.35:969][472]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/GitHub/turma2025-2-marcelle-ramos/projeto_marcelle/Saved/WWNGLOEGC2Z7HU3XOX48P15274EDB743E08A0F249D6494E2F4B7EE.tmp' to '../../../../../../Users/Aluno/Documents/GitHub/turma2025-2-marcelle-ramos/projeto_marcelle/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/7X/WWNGLOEGC2Z7HU3XOX48P1.uasset'
+[2025.12.01-14.53.35:970][472]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/7O/SN0RAD7PC17GZB9BZQY3ZK
+[2025.12.01-14.53.35:970][472]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/GitHub/turma2025-2-marcelle-ramos/projeto_marcelle/Saved/SN0RAD7PC17GZB9BZQY3ZK5B55E1BA4E6630CC0865F68040123A9E.tmp' to '../../../../../../Users/Aluno/Documents/GitHub/turma2025-2-marcelle-ramos/projeto_marcelle/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/7O/SN0RAD7PC17GZB9BZQY3ZK.uasset'
+[2025.12.01-14.53.35:972][472]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/VN/0ZQJZJC78S0COU2M2HTF6Z
+[2025.12.01-14.53.35:972][472]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/GitHub/turma2025-2-marcelle-ramos/projeto_marcelle/Saved/0ZQJZJC78S0COU2M2HTF6Z9CF5338242A62D30334485AF9E6EA2FA.tmp' to '../../../../../../Users/Aluno/Documents/GitHub/turma2025-2-marcelle-ramos/projeto_marcelle/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/VN/0ZQJZJC78S0COU2M2HTF6Z.uasset'
+[2025.12.01-14.53.35:974][472]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Textures/snow-packed12-Roughness] ([1] browsable assets)...
+[2025.12.01-14.53.35:974][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Textures/snow-packed12-Roughness]
+[2025.12.01-14.53.35:987][472]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/snow-packed12-Roughness
+[2025.12.01-14.53.35:987][472]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/GitHub/turma2025-2-marcelle-ramos/projeto_marcelle/Saved/snow-packed12-Roughness4ADA14C64DB72EBE3D898E88EB1C7234.tmp' to '../../../../../../Users/Aluno/Documents/GitHub/turma2025-2-marcelle-ramos/projeto_marcelle/Content/LevelPrototyping/Textures/snow-packed12-Roughness.uasset'
+[2025.12.01-14.53.35:988][472]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Textures/superficie-de-madeira-com-graos-e-pregos] ([1] browsable assets)...
+[2025.12.01-14.53.35:988][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Textures/superficie-de-madeira-com-graos-e-pregos]
+[2025.12.01-14.53.36:000][472]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/superficie-de-madeira-com-graos-e-pregos
+[2025.12.01-14.53.36:000][472]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/GitHub/turma2025-2-marcelle-ramos/projeto_marcelle/Saved/superficie-de-madeira-com-graos-E813EE43450F6B29955029A248F81F94.tmp' to '../../../../../../Users/Aluno/Documents/GitHub/turma2025-2-marcelle-ramos/projeto_marcelle/Content/LevelPrototyping/Textures/superficie-de-madeira-com-graos-e-pregos.uasset'
+[2025.12.01-14.53.36:001][472]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Textures/superficie-de-madeira-com-graos-e-pregos_Mat] ([1] browsable assets)...
+[2025.12.01-14.53.36:001][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Textures/superficie-de-madeira-com-graos-e-pregos_Mat]
+[2025.12.01-14.53.36:002][472]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/superficie-de-madeira-com-graos-e-pregos_Mat
+[2025.12.01-14.53.36:002][472]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/GitHub/turma2025-2-marcelle-ramos/projeto_marcelle/Saved/superficie-de-madeira-com-graos-832A983A4E58C73CCA7E9497B8076C9F.tmp' to '../../../../../../Users/Aluno/Documents/GitHub/turma2025-2-marcelle-ramos/projeto_marcelle/Content/LevelPrototyping/Textures/superficie-de-madeira-com-graos-e-pregos_Mat.uasset'
+[2025.12.01-14.53.36:003][472]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Textures/textura-de-close-up-da-superficie-de-neve-branca-fresca] ([1] browsable assets)...
+[2025.12.01-14.53.36:003][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Textures/textura-de-close-up-da-superficie-de-neve-branca-fresca]
+[2025.12.01-14.53.36:018][472]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/textura-de-close-up-da-superficie-de-neve-branca-fresca
+[2025.12.01-14.53.36:018][472]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/GitHub/turma2025-2-marcelle-ramos/projeto_marcelle/Saved/textura-de-close-up-da-superficiDFD27AE44A0963D8AEB98A8571989FB2.tmp' to '../../../../../../Users/Aluno/Documents/GitHub/turma2025-2-marcelle-ramos/projeto_marcelle/Content/LevelPrototyping/Textures/textura-de-close-up-da-superficie-de-neve-branca-fresca.uasset'
+[2025.12.01-14.53.36:019][472]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Textures/textura-de-close-up-da-superficie-de-neve-branca-fresca_Mat] ([1] browsable assets)...
+[2025.12.01-14.53.36:019][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Textures/textura-de-close-up-da-superficie-de-neve-branca-fresca_Mat]
+[2025.12.01-14.53.36:020][472]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/textura-de-close-up-da-superficie-de-neve-branca-fresca_Mat
+[2025.12.01-14.53.36:020][472]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/GitHub/turma2025-2-marcelle-ramos/projeto_marcelle/Saved/textura-de-close-up-da-superficiC30D15294E925F4D1A5A90A002DF0A90.tmp' to '../../../../../../Users/Aluno/Documents/GitHub/turma2025-2-marcelle-ramos/projeto_marcelle/Content/LevelPrototyping/Textures/textura-de-close-up-da-superficie-de-neve-branca-fresca_Mat.uasset'
+[2025.12.01-14.53.36:027][472]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.684 ms (total: 377.276 ms)
+[2025.12.01-14.53.36:076][472]LogStall: Shutdown...
+[2025.12.01-14.53.36:076][472]LogStall: Shutdown complete.
+[2025.12.01-14.53.36:113][472]LogSlate: Window 'projeto_marcelle — Unreal Editor' being destroyed
+[2025.12.01-14.53.36:162][472]LogContentValidation: Display: Starting to validate 14 assets
+[2025.12.01-14.53.36:162][472]LogContentValidation: Enabled validators:
+[2025.12.01-14.53.36:162][472]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.01-14.53.36:162][472]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.01-14.53.36:162][472]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.01-14.53.36:162][472]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.01-14.53.36:162][472]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.01-14.53.36:162][472]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.01-14.53.36:163][472]AssetCheck: /Game/LevelPrototyping/Textures/blocos-brancos-textura-da-parede Validando ativo
+[2025.12.01-14.53.36:163][472]AssetCheck: /Game/LevelPrototyping/Textures/blocos-brancos-textura-da-parede_Mat Validando ativo
+[2025.12.01-14.53.36:163][472]AssetCheck: /Game/LevelPrototyping/Materials/neve Validando ativo
+[2025.12.01-14.53.36:163][472]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validando ativo
+[2025.12.01-14.53.36:163][472]AssetCheck: /Game/LevelPrototyping/Textures/snow-packed12-Roughness Validando ativo
+[2025.12.01-14.53.36:163][472]AssetCheck: /Game/LevelPrototyping/Textures/superficie-de-madeira-com-graos-e-pregos Validando ativo
+[2025.12.01-14.53.36:163][472]AssetCheck: /Game/LevelPrototyping/Textures/superficie-de-madeira-com-graos-e-pregos_Mat Validando ativo
+[2025.12.01-14.53.36:163][472]AssetCheck: /Game/LevelPrototyping/Textures/textura-de-close-up-da-superficie-de-neve-branca-fresca Validando ativo
+[2025.12.01-14.53.36:163][472]AssetCheck: /Game/LevelPrototyping/Textures/textura-de-close-up-da-superficie-de-neve-branca-fresca_Mat Validando ativo
+[2025.12.01-14.53.36:165][472]Cmd: QUIT_EDITOR
+[2025.12.01-14.53.36:165][472]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.12.01-14.53.36:170][473]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.12.01-14.53.36:170][473]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.12.01-14.53.36:170][473]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.12.01-14.53.36:171][473]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.01-14.53.36:171][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.01-14.53.36:171][473]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2025.12.01-14.53.36:180][473]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.12.01-14.53.36:181][473]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.12.01-14.53.36:182][473]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.12.01-14.53.36:182][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.01-14.53.36:182][473]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.12.01-14.53.36:182][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.01-14.53.36:183][473]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.12.01-14.53.36:183][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.01-14.53.36:183][473]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.12.01-14.53.36:183][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.01-14.53.36:183][473]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.12.01-14.53.36:183][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.01-14.53.36:184][473]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.12.01-14.53.36:185][473]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.12.01-14.53.36:185][473]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.12.01-14.53.36:185][473]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.12.01-14.53.36:388][473]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.12.01-14.53.36:388][473]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.12.01-14.53.36:388][473]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2025.12.01-14.53.36:388][473]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.12.01-14.53.36:388][473]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.12.01-14.53.36:390][473]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.12.01-14.53.36:402][473]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.12.01-14.53.36:402][473]LogAudio: Display: Audio Device Manager Shutdown
+[2025.12.01-14.53.36:403][473]LogWindowsTextInputMethodSystem: Activated input method: Português (Brasil) - (Keyboard).
+[2025.12.01-14.53.36:405][473]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.12.01-14.53.36:405][473]LogExit: Preparing to exit.
+[2025.12.01-14.53.36:421][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.12.01-14.53.37:235][473]LogEditorDataStorage: Deinitializing
+[2025.12.01-14.53.37:295][473]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.12.01-14.53.37:304][473]LogExit: Editor shut down
+[2025.12.01-14.53.37:305][473]LogExit: Transaction tracking system shut down
+[2025.12.01-14.53.37:356][473]LogExit: Object subsystem successfully closed.
+[2025.12.01-14.53.37:425][473]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.12.01-14.53.38:177][473]LogMemoryProfiler: Shutdown
+[2025.12.01-14.53.38:177][473]LogNetworkingProfiler: Shutdown
+[2025.12.01-14.53.38:177][473]LoadingProfiler: Shutdown
+[2025.12.01-14.53.38:177][473]LogTimingProfiler: Shutdown
+[2025.12.01-14.53.38:484][473]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.12.01-14.53.38:502][473]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.12.01-14.53.38:502][473]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0864F112-48B1-1C99-0B6F-578FF1BD7359%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.1-38445549%2B%2B%2BUE5%2BRelease-5.5&UserID=3611fbf74d200521081472909600f181%7Cae63cbe4b7c94308a4f333005cc752a7%7Ccb925504-4b17-44cd-8fce-3f81715dffd0&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.12.01-14.53.39:049][473]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.12.01-14.53.39:058][473]RenderDocPlugin: plugin has been unloaded.
+[2025.12.01-14.53.39:058][473]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.12.01-14.53.39:058][473]LogNFORDenoise: NFORDenoise function shutting down
+[2025.12.01-14.53.39:060][473]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.12.01-14.53.39:060][473]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.12.01-14.53.39:060][473]LogPakFile: Destroying PakPlatformFile
+[2025.12.01-14.53.39:415][473]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.12.01-14.53.39:458][473]LogExit: Exiting.
+[2025.12.01-14.53.39:487][473]Log file closed, 12/01/25 11:53:39
